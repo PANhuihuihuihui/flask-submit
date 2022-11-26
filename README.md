@@ -1,7 +1,7 @@
 # flask-submit
 
 ## Demo
-I build it on aws EC2, check this ![website](http://ec2-44-200-56-211.compute-1.amazonaws.com:32239) 
+I build it on aws EC2, check this [website](http://ec2-44-200-56-211.compute-1.amazonaws.com:32239) 
 ![](https://raw.githubusercontent.com/PANhuihuihuihui/PicBed/main/202211260141285.png)
 
 ## Run
@@ -11,7 +11,7 @@ my env
 python = 3.9
 macOS Moneterey 12.6
 ```
-for other pythen env check ![requirements-apple.txt](requirements-apple.txt)
+for other pythen env check [requirements-apple.txt](requirements-apple.txt)
 1. **start local build**
 ```bash
 source myflask/bin/activate
