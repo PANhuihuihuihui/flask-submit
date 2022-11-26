@@ -5,7 +5,7 @@ ENV FLASK_APP app.py
 WORKDIR /home/flask
 
 COPY boot.sh boot.sh
-COPY requirements.txt requirements.txt
+COPY requirements-apple.txt requirements.txt
 COPY app.py app.py
 RUN python -m venv myflask
 RUN chmod 777 boot.sh
