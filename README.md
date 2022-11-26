@@ -1,7 +1,10 @@
 # flask-submit
 
 ## Demo
-I build it on aws EC2, check this [website](http://ec2-44-200-56-211.compute-1.amazonaws.com:32239) 
+**--update--** shut the k8s down because of the money. email me if you want to see the website 
+
+I build it on aws EC2, check this [website](http://ec2-44-200-56-211.compute-1.amazonaws.com:32239)
+
 ![](https://raw.githubusercontent.com/PANhuihuihuihui/PicBed/main/202211260141285.png)
 
 ## Run
