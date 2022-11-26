@@ -2,7 +2,7 @@
 source myflask/bin/activate
 
 while true; do
-    flask run --host 0.0.0.0
+    gunicorn app:app -b 0.0.0.0:5000
     if [["$?" == "0"]]; then
         break
     fi
